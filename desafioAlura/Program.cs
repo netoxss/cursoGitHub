@@ -11,4 +11,5 @@
     Console.WriteLine(titulo);
     Console.WriteLine(asterisco);
 }
-TituloOpcao("Curso Alura de GitHub");
+
+TituloOpcao("Curso Alura");
