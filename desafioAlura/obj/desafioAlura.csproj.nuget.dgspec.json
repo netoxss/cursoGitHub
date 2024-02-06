@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pedron\\Desktop\\cursoGitHub\\desafioAlura\\desafioAlura.csproj": {}
+    "C:\\Users\\pedron\\Desktop\\cursoGitHub\\desafioAlura\\desafioAlura.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pedron\\Desktop\\cursoGitHub\\desafioAlura\\desafioAlura.csproj": {
+    "C:\\Users\\pedron\\Desktop\\cursoGitHub\\desafioAlura\\desafioAlura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pedron\\Desktop\\cursoGitHub\\desafioAlura\\desafioAlura.csproj",
+        "projectUniqueName": "C:\\Users\\pedron\\Desktop\\cursoGitHub\\desafioAlura\\desafioAlura.csproj",
         "projectName": "desafioAlura",
-        "projectPath": "c:\\Users\\pedron\\Desktop\\cursoGitHub\\desafioAlura\\desafioAlura.csproj",
+        "projectPath": "C:\\Users\\pedron\\Desktop\\cursoGitHub\\desafioAlura\\desafioAlura.csproj",
         "packagesPath": "C:\\Users\\pedron\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pedron\\Desktop\\cursoGitHub\\desafioAlura\\obj\\",
+        "outputPath": "C:\\Users\\pedron\\Desktop\\cursoGitHub\\desafioAlura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedron\\AppData\\Roaming\\NuGet\\NuGet.Config",
